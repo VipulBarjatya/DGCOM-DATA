@@ -1,0 +1,60 @@
+{
+  "laptops": [
+    {
+      "product_id": 1,
+      "shop_id": 1,
+      "brand": "HP",
+      "model": "Pavilion 15-ec2144AX",
+      "type": "Gaming",
+      "product_image": "https://www.reliancedigital.in/medias/HP-552W1PAACJ-Laptops-492574688-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wzNzQ5NDF8aW1hZ2UvanBlZ3xpbWFnZXMvaDAyL2hjZi85ODU4MTIyMTg2NzgyLmpwZ3w1NTRiM2ZiYWEzYzcwMzI3MWNjNTRmZjQ1MGM2YmZiZTAwY2JlZWYzNTQxNWJkNzdmMjBkMzIzZTc2N2FhYzhi",
+      "resolution": 15.6,
+      "ram": 8,
+      "storage": 512,
+      "storage_type": "SSD",
+      "Price": 79273,
+      "Discount": 0.28
+    },
+    {
+      "product_id": 2,
+      "shop_id": 1,
+      "brand": "HP",
+      "model": "15-dh0135tx",
+      "type": "Gaming",
+      "product_image": "https://www.reliancedigital.in/medias/HP-7QU45PA-ACJ-Laptops-491584218-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wxMjk3Mzh8aW1hZ2UvanBlZ3xpbWFnZXMvaGRlL2g5NS85MTY4OTA0MDI4MTkwLmpwZ3w4ZTBlYzA2OWRiYjY1ZGQzZDQ5YWM1NjU5ZDA4MjNmM2EyNmUxY2MwNWU1ZjkwNzI4Njg0NWU4MTYxYmMyNmIx",
+      "resolution": 15.6,
+      "ram": 16,
+      "storage": 1024,
+      "storage_type": "SSD",
+      "Price": 143115,
+      "Discount": 0.22
+    },
+    {
+      "product_id": 3,
+      "shop_id": 1,
+      "brand": "Lenovo ",
+      "model": "L3IN IdeaPad 3",
+      "type": "Student",
+      "product_image": "https://www.reliancedigital.in/medias/Lenovo-L3IN-Laptops-492573926-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wyODQ3MzF8aW1hZ2UvanBlZ3xpbWFnZXMvaDIxL2g2Ny85NzMxNjEyNjA2NDk0LmpwZ3w5ODAzOWJlZDcyNWNiY2I1YzEyOWQzNDQxZWM4ZWViNzBmZmY5Y2IxNWM1NDU3OGE0YmNhYWMzZDgwYzhkNjZh",
+      "resolution": 15.6,
+      "ram": 16,
+      "storage": 256,
+      "storage_type": "SSD",
+      "Price": 61590,
+      "Discount": 0.46
+    },
+    {
+      "product_id": 4,
+      "shop_id": 1,
+      "brand": "Asus",
+      "model": "EJ312WS",
+      "type": "Student",
+      "product_image": "https://www.reliancedigital.in/medias/Asus-EJ312WS-Laptop-492574961-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wyOTI5MDR8aW1hZ2UvanBlZ3xpbWFnZXMvaDMxL2hlZC85NzY4OTQyMzcwODQ2LmpwZ3xkM2I0YzNjNzNiZjZhNmZlZGRkMDFjNWEyZmM1YWNhNjhiY2I4OGIxYWEzNzNmN2Y0ZjBlMTRhYzU5OGJlODY0",
+      "resolution": 15.6,
+      "ram": 16,
+      "storage": 256,
+      "storage_type": "SSD",
+      "Price": 52990,
+      "Discount": 0.37
+    }
+  ]
+}

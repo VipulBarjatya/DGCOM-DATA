@@ -1,0 +1,52 @@
+{
+  "smartwatch": [
+    {
+      "product_id": 1,
+      "shop_id": 4,
+      "brand": "apple",
+      "model": "Watch Series 4",
+      "color": "Off white",
+      "product_image": "https://www.reliancedigital.in/medias/Apple-WatchS4-44mm-GD-SS-Cs-S-S-Bnd-Cel-491488333-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wxNDI1Nzh8aW1hZ2UvanBlZ3xpbWFnZXMvaDgxL2gzMS85MDUwNjUxNjIzNDU0LmpwZ3w5ODdlZjBjNzAyMDgxZmYxMDVkMTVjM2Q3NWY5MDZmMmJmMWQxNWYzMzE2MDgyZGUyYzYxMjc5M2FhMzE4YThl",
+      "sensor": "Electric Heart Sensor",
+      "processor": "64-bit Dual-core S4",
+      "water_resistant": true,
+      "price": 71990
+    },
+    {
+      "product_id": 2,
+      "shop_id": 4,
+      "brand": "Noise",
+      "model": "ColorFit",
+      "color": "Silver Grey",
+      "product_image": "https://www.reliancedigital.in/medias/Apple-WatchS4-44mm-GD-SS-Cs-S-S-Bnd-Cel-491488333-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wxNDI1Nzh8aW1hZ2UvanBlZ3xpbWFnZXMvaDgxL2gzMS85MDUwNjUxNjIzNDU0LmpwZ3w5ODdlZjBjNzAyMDgxZmYxMDVkMTVjM2Q3NWY5MDZmMmJmMWQxNWYzMzE2MDgyZGUyYzYxMjc5M2FhMzE4YThl",
+      "sensor": "Electric Heart Sensor",
+      "processor": "64-bit Dual-core S4",
+      "water_resistant": true,
+      "price": 5999
+    },
+    {
+      "product_id": 3,
+      "shop_id": 4,
+      "brand": "Fitbit",
+      "model": "Inspire HR FB413BKWT",
+      "color": "White",
+      "product_image": "https://www.reliancedigital.in/medias/Fitbit-FB413BKWT-Fitness-Bands-and-Tracker-491550907-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w5NDcxMnxpbWFnZS9qcGVnfGltYWdlcy9oNTIvaDc4LzkxMjI3Mzg0NzA5NDIuanBnfDMwYmRhNjIxYTExYTlhMTQzMmZmZmRkMDQ1MWNiNzA3NmM5NmIzMzAzZDM4ZWFmOTY3ZDEzOGJjNzQzMTRiNjI",
+      "sensor": "Sleep Tracker",
+      "processor": "64-bit Dual-core S4",
+      "water_resistant": true,
+      "price": 8999
+    },
+    {
+      "product_id": 4,
+      "shop_id": 4,
+      "brand": "Amazfit",
+      "model": "A1902 GTR Series",
+      "color": "Brown",
+      "product_image": "https://www.reliancedigital.in/medias/Amazfit-A1902-Smart-Watches-491584608-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wyMTM1MzV8aW1hZ2UvanBlZ3xpbWFnZXMvaGYzL2hlZS85MjA2NjQzNjIxOTE4LmpwZ3w1MTRlZDhkNmFmODk5YzcyMDFmMjYzNWJkNjA3YjVlOTdiMzQ2YzUwYWE3NjQwOTNiZmJkM2MwYTUwMmI4NmNk",
+      "sensor": "12 Sport Modes",
+      "processor": "64-bit Dual-core S4",
+      "water_resistant": true,
+      "price": 13999
+    }
+  ]
+}
